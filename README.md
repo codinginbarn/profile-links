@@ -17,6 +17,4 @@ After generating your `index.html` file, you can follow the instructions below t
 
 This project is supported by:
 
-<a href="https://m.do.co/c/8bd90b1b884d">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-</a>
+<a href="https://www.digitalocean.com/?refcode=9b482e543a48&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
